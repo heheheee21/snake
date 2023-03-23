@@ -1,0 +1,3 @@
+﻿  1_try.cpp
+C:\Users\user\Desktop\ВУЗ\ДОП программирование\6th task\1_try\1_try\SnakeGame.h(98,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  1_try.vcxproj -> C:\Users\user\Desktop\ВУЗ\ДОП программирование\6th task\1_try\Debug\1_try.exe
